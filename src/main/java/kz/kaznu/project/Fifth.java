@@ -27,3 +27,4 @@ public class Fifth {
         return sum;
     }
 }
+// HomeWork 3 Completed
